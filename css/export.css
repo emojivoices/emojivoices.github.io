@@ -1,0 +1,14 @@
+.navbar.shrink-nav-sticky {
+  position: fixed !important;
+  top: 0;
+ }
+.shrink-transparent-header-dark {
+  background-color: transparent !important;
+}
+
+.transparent-not-sticky {
+  position: absolute !important;
+}
+/*.header-border-light {
+  border-bottom: 1px solid rgba(255,255,255,.1) !important;
+}*/
